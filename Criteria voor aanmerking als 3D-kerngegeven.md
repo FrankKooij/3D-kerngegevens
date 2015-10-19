@@ -5,7 +5,7 @@ Een gegevensverzameling wordt aangemerkt als 3D-kerngegevens wanneer deze aan de
 Ten minste één van deze criteria moet waar zijn | _Het gaat om 3D-kerngegevens als de gegevens ..._ |
 | :---: | :---: |
 Algemene beschikbaarheid van de gegevens kan mensenlevens redden | _... het verschil kunnen betekenen tussen leven en dood, bijvoorbeeld omdat de brandweer of een ziekenauto sneller op de plaats van bestemming kan komen_ |
-Algemene beschikbaarheid van de gegevens verbetert de doelmatigheid of doeltreffendheid van de overheid | _... de dienstverlening van de overheid verbetert_ |
+Algemene beschikbaarheid van de gegevens verbetert de doelmatigheid of doeltreffendheid van de overheid | _... de dienstverlening van de overheid verbeteren_ |
 Algemene beschikbaarheid van de gegevens levert voor Nederland een economisch of maatschappelijk voordeel op | _... meerwaarde kunnen hebben in toepassingen die nuttig zijn voor burgers, bedrijven of instellingen_ |
 INSPIRE geeft specificaties voor de uitwisseling van de gegevens in 3D | _... zo belangrijk zijn voor toepassingen in Europa dat de Europese Commissie er 3D-gegevensspecificaties voor heeft laten opstellen_ |
 
